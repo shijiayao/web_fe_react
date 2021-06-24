@@ -1,0 +1,30 @@
+{
+  "name": "web_fe_002_react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shijiayao/web_fe_002_react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shijiayao/web_fe_002_react/issues"
+  },
+  "homepage": "https://github.com/shijiayao/web_fe_002_react#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.29.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-html": "^6.1.2",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-vue": "^7.11.1",
+    "prettier": "^2.3.1",
+    "vue-eslint-parser": "^7.6.0"
+  }
+}
